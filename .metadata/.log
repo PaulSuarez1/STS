@@ -419,3 +419,55 @@ Binding(COMMAND+SHIFT+T,
 !MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
 	demo[*]: {CONTENT}
 		ResourceDelta(/demo/bin)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-08 08:02:36.045
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	demo[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.oreilly.demo.controllers[*]: {CHILDREN}
+				HelloRestController.java[+]: {}
+		ResourceDelta(/demo/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-08 08:02:36.211
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	demo[*]: {CONTENT}
+		ResourceDelta(/demo/bin)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-08 08:02:36.233
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	demo[*]: {CHILDREN}
+		src/main/java[*]: {CHILDREN}
+			com.oreilly.demo.controllers[*]: {CHILDREN}
+				[Working copy] HelloRestController.java[*]: {PRIMARY WORKING COPY}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-08 08:04:33.796
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	demo[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.oreilly.demo.entities[+]: {}
+		ResourceDelta(/demo/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-08 08:04:33.912
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	demo[*]: {CONTENT}
+		ResourceDelta(/demo/bin)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-08 08:04:47.191
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	demo[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.oreilly.demo.entities[*]: {CHILDREN}
+				Greeting.java[+]: {}
+		ResourceDelta(/demo/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-08 08:04:47.335
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	demo[*]: {CONTENT}
+		ResourceDelta(/demo/bin)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-08 08:04:47.350
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	demo[*]: {CHILDREN}
+		src/main/java[*]: {CHILDREN}
+			com.oreilly.demo.entities[*]: {CHILDREN}
+				[Working copy] Greeting.java[*]: {PRIMARY WORKING COPY}]
