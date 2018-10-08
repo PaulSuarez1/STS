@@ -72,7 +72,6 @@ INDEX VERSION 1.131+/Users/paulsuarez/dev/STS/.metadata/.plugins/org.eclipse.jdt
 4166160940.index
 1466028806.index
 2935125032.index
-1924484980.index
 1963031535.index
 3635276310.index
 2348727876.index
