@@ -29,3 +29,45 @@ Binding(COMMAND+SHIFT+T,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-08 06:54:17.824
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-08 06:54:19.955
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.XpzkbRgD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-08 06:54:19.956
+!MESSAGE subscribing to classpath changes: sts4.classpath.XpzkbRgD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-08 06:54:19.957
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-08 06:54:19.958
+!MESSAGE subsribers = [sts4.classpath.XpzkbRgD]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-08 06:54:19.958
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-08 06:54:19.960
+!MESSAGE project demo ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-08 06:54:19.961
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-08 06:54:19.962
+!MESSAGE Preparing classpath changed notification demo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-08 06:54:19.962
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-08 06:54:19.962
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.XpzkbRgD => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-08 06:54:19.967
+!MESSAGE classpath=81 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-08 06:54:19.967
+!MESSAGE executing callback sts4.classpath.XpzkbRgD demo false 81
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-08 06:54:20.539
+!MESSAGE executing callback sts4.classpath.XpzkbRgD SUCCESS [done]
