@@ -471,3 +471,24 @@ Binding(COMMAND+SHIFT+T,
 		src/main/java[*]: {CHILDREN}
 			com.oreilly.demo.entities[*]: {CHILDREN}
 				[Working copy] Greeting.java[*]: {PRIMARY WORKING COPY}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-08 08:59:30.546
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	demo[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.oreilly.demo.controllers[*]: {CHILDREN}
+				[Working copy] HelloRestController.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/demo/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-08 08:59:30.568
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	demo[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.oreilly.demo.entities[*]: {CHILDREN}
+				[Working copy] Greeting.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/demo/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-08 08:59:30.747
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	demo[*]: {CONTENT}
+		ResourceDelta(/demo/bin)[*]]
